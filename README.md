@@ -8,6 +8,9 @@ Topics learned from this project:
 * Managing different displays to show on screen with states
 
 <h3>Screenshots of the game:</h3>
-<img src="/start_screen.PNG" width="250" />
-<img src="/game_screen.PNG" width="250" /> 
-<img src="/game_over_screen.PNG" width="250" />
+
+<p float="left">
+  <img src="/start_screen.PNG" width="250" />
+  <img src="/game_screen.PNG" width="250" /> 
+  <img src="/game_over_screen.PNG" width="250" />
+</p>
