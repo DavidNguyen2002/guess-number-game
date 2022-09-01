@@ -1,4 +1,4 @@
-# guess-number-name
+# guess-number-game
 <h3>Number guessing game made with React Native. </h3>
 
 Choose a number and see how many attempts this app will need to guess it while you provide it with hints!
